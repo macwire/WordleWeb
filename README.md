@@ -117,6 +117,16 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Wordhurdle](https://solitaired.com/wordhurdle) A game like Worlde, but you guess the 6-letter word. Published on February 2022
 - [Clue Hurdle](https://solitaired.com/cluehurdle) Similar to Phrazle but provides additional clues to assist players in guessing the phrase
 
+# [Soliatre.us](https://soliatre.us/)
+- [Play Solitaire](https://soliatre.us/play) Free online Solitaire card games playable instantly in browser
+- [Klondike Solitaire](https://soliatre.us/klondike) Classic Klondike Solitaire game with smooth gameplay
+- [Spider Solitaire](https://soliatre.us/spider) Free Spider Solitaire with multiple difficulty modes
+- [FreeCell Solitaire](https://soliatre.us/freecell) Play classic FreeCell Solitaire online
+- [Pyramid Solitaire](https://soliatre.us/pyramid) Relaxing Pyramid Solitaire card game
+- [Yukon Solitaire](https://soliatre.us/yukon) Advanced Yukon Solitaire variation for experienced players
+- [How to Play Solitaire](https://soliatre.us/how-to-play) Learn Solitaire rules, gameplay, and strategies
+- [Solitaire Rules](https://soliatre.us/rules) Complete Solitaire rules and beginner guide
+
 # [u/Ertersy](https://www.reddit.com/user/Ertersy/)
 - [Taylordle.xyz](https://www.taylordle.xyz/)/[Reddit release post](https://www.reddit.com/r/TaylorSwift/comments/1bclpah/i_made_a_new_taylordle/) Daily Taylor Swift song guessing Wordle variant. Published on March 12, 2024
 
